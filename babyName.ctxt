@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=babyName
+comment0.text=\r\n\ This\ class\ contains\ all\ method\ need\ to\ complete\ this\ project.\r\n\ \r\n\ @author\ (\ imasy36\ )\ \r\n\ @version\ (\ v.1\ /\ 29\ -\ 03\ -\ 2020\ )\r\n
+comment1.params=
+comment1.target=babyName()
+comment10.params=year\ gender
+comment10.target=int\ totalCount(int,\ java.lang.String)
+comment2.params=add\ y1\ y2
+comment2.target=babyName(java.lang.String,\ int,\ int)
+comment3.params=year
+comment3.target=org.apache.commons.csv.CSVParser\ getPar(int)
+comment4.params=name\ year\ gender
+comment4.target=int\ getRank(java.lang.String,\ int,\ java.lang.String)
+comment5.params=rank\ year\ gender
+comment5.target=java.lang.String\ getName(int,\ int,\ java.lang.String)
+comment6.params=name\ year\ new_year\ gender
+comment6.target=java.lang.String\ whatIsNameInYear(java.lang.String,\ int,\ int,\ java.lang.String)
+comment7.params=name\ gender
+comment7.target=int\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment8.params=name\ gender
+comment8.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+comment9.params=name\ year\ gender
+comment9.target=int\ getTotalBirthsRankedHigher(java.lang.String,\ int,\ java.lang.String)
+numComments=11
