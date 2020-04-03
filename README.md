@@ -17,7 +17,7 @@ HOW TO START THIS PROJECT: Executes main class
 AUTHORS: @imasy36
 
 USER INSTRUCTIONS: 
-	You can change the data if you want to work on you data .
+	You can change the data if you want to work on your data .
 
 	you might need to make some changes in code if CSV file type is changed 
 
