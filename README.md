@@ -8,8 +8,6 @@ year , you can search name by giving rank and gender , etc...
 
 PROJECT TITLE: Baby Name
 
-PURPOSE OF PROJECT: 
-
 VERSION or DATE: v.1 [ 29 - 03 - 2020 ] 
 
 HOW TO START THIS PROJECT: Executes main class
@@ -26,4 +24,3 @@ USER INSTRUCTIONS:
 	-> directory of your data .
 	-> start year .
 	-> end year.	
-	
